@@ -1,0 +1,17 @@
+export default {
+    "hooks-overview": "Hooks Overview",
+    "rules-of-hooks": "Rules of Hooks",
+    "use-state": "useState",
+    "use-effect": "useEffect",
+    "use-context": "useContext",
+    "use-ref": "useRef",
+    "use-memo": "useMemo",
+    "use-callback": "useCallback",
+    "use-reducer": "useReducer",
+    "use-layout-effect": "useLayoutEffect",
+    "use-transition": "useTransition",
+    "use-deferred-value": "useDeferredValue",
+    "use-id": "useId",
+    "use-imperative-handle": "useImperativeHandle",
+    "custom-hooks": "Custom Hooks",
+}
