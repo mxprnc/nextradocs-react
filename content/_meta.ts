@@ -6,4 +6,6 @@ export default {
     "components": "Components",
     "state-management": "State Management",
     "typescript": "TypeScript",
+    "react-typescript": "React TypeScript",
+
 }
