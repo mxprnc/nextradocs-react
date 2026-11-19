@@ -5,4 +5,5 @@ export default {
     "hooks": "Hooks",
     "components": "Components",
     "state-management": "State Management",
+    "typescript": "TypeScript",
 }
