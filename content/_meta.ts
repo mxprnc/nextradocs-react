@@ -8,5 +8,7 @@ export default {
     "typescript": "TypeScript",
     "react-typescript": "React TypeScript",
     "forms": "Forms",
-    "performance": "Performance"
+    "performance": "Performance",
+    "advanced": "Advanced",
+    "testing": "Testing",
 }
