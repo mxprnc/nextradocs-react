@@ -4,4 +4,5 @@ export default {
     "rendering": "Rendering",
     "hooks": "Hooks",
     "components": "Components",
+    "state-management": "State Management",
 }
