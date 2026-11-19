@@ -7,5 +7,6 @@ export default {
     "state-management": "State Management",
     "typescript": "TypeScript",
     "react-typescript": "React TypeScript",
+    "forms": "Forms",
 
 }
